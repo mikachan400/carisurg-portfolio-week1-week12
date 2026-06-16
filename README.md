@@ -39,5 +39,5 @@ It includes weekly research tasks, proposals, analyses, and project deliverables
 
 ## ✅ Status
 
-✅ Week 1 completed (100%)  
+✅ Week 1 completed 
 ⏳ Weeks 2–12 in progress
