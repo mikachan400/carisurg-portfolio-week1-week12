@@ -16,7 +16,7 @@ carisurg-portfolio/
   Completed project report and presentation.
 
 ---
-##⚙️ How to Use
+## ⚙️ How to Use
 
 Clone the repository:
 
@@ -26,7 +26,7 @@ Navigate into the project folder:
 
 Shellcd carisurg-portfolioShow more lines
 
-###Open notebooks using:
+### Open notebooks using:
 Jupyter Notebook
 OR Google Colab
 
